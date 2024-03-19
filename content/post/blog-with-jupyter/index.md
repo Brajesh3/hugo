@@ -3,7 +3,9 @@ title: Blog with Jupyter Notebooks!
 date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---
-
+**hello it is a test text**
+- [x] git push
+- [x] deploy
 
 ```python
 from IPython.core.display import Image
