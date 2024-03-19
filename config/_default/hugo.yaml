@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Brajesh Kumar # Website name
-baseURL: 'https://brajesh3.netlify.app/' # Website URL
+title: Brajesh Kumar Portfolio # Website name
+baseURL: 'https://brajesh3.github.io/hugo' # Website URL
 
 ############################
 ## LANGUAGE

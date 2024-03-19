@@ -21,12 +21,12 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: 'G-V6PY62418Z'
+    google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: 'GTM-T6PSZ23M'
+    google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: 'As8BHkztjB-42ljJNVZmltqMOTdSKd9qv60EsyAN9H4'
+    google: ''
     baidu: ''
 
 # Site header
@@ -70,24 +70,24 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Brajesh3/hugo'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
-    provider: 'disqus'
+    provider: ''
     disqus:
-      shortname: 'brajesh-kumar'
+      shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: 'Brajesh3/hugo'
-      repo_id: 'R_kgDOLirlbw'
-      category: 'Comments'
-      category_id: 'DIC_kwDOLirlb84CeFxJ'
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
